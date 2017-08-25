@@ -1,8 +1,14 @@
 # KohaIls
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/koha_ils`. To experiment with that code, run `bin/console` for an interactive prompt.
+This gem allows you to integrate Koha into your Ruby based library system by wrapping its ILSDI API and its responses in Ruby objects.
 
-TODO: Delete this and the text above, and describe your gem
+## Why not use koha gem?
+
+This gem does not use the Koha REST interface as our vendor's advice was to use the ILSDI API exclusively. If you are using the REST interface, you should probably use the koha gem.
+
+# Features
+
+Wrappers around most calls to ILSDI api and Ruby classes to wrap the responses to these calls.
 
 ## Installation
 
@@ -22,7 +28,17 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+To use the KohaIls gem you must first configure the base path of the installation. To do this, use an initializer:
+
+```ruby
+# config/initializers/koha_ils.rb
+
+KohaIls.configure do |config|
+  config.base_path = "http://koha.library.dk"
+end
+
+```
+
 
 ## Development
 

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GetRecords>
+  <record>
+    <reserves>
+    </reserves>
+    <issues>
+    </issues>
+    <biblioitemnumber>45636</biblioitemnumber>
+    <pages>45 s.</pages>
+    <marcxml>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;record
+    xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;
+    xsi:schemaLocation=&quot;http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd&quot;
+    xmlns=&quot;http://www.loc.gov/MARC21/slim&quot;&gt;
+
+  &lt;leader&gt;01766nam-a22003974--4500&lt;/leader&gt;
+  &lt;controlfield tag=&quot;001&quot;&gt;000106029&lt;/controlfield&gt;
+  &lt;controlfield tag=&quot;008&quot;&gt;000000s1983||||xx||||||||||||00||||eng|d&lt;/controlfield&gt;
+  &lt;controlfield tag=&quot;008&quot;&gt;9812180u----0---4---uu---1------&lt;/controlfield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;seq - 106029&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;2589&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;681.3.01&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Gruppekørsel (edb)&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Batch processing&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Offline (edb)&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Online (edb)&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Interaktiv edb&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Tidstro edb&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Real-time (edb)&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Tidsdeling (edb)&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Time-sharing (edb)&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Edb, principper og metoder&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Databehandling, principper og metoder&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;7&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;(04)&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Enkeltpublikation inden for en serie *** før 1997&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Enkeltnumre af en serie *** før 1997&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;245&quot; ind1=&quot;0&quot; ind2=&quot;0&quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Design practice and interface usability: evidence from interviews with designers.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;260&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;København 1983,,&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;1983.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;300&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;45 s.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;490&quot; ind1=&quot;1&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Københavns universitet, Datalogisk institut. Rapport ;&lt;/subfield&gt;
+    &lt;subfield code=&quot;v&quot;&gt;1983:10&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;500&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;(Bibl.s.44-45)..&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;700&quot; ind1=&quot;1&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;23947&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Helms Jørgensen, A.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;700&quot; ind1=&quot;1&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;23946&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Jørgensen, A. Helms.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;710&quot; ind1=&quot;2&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;337644&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;DIKU.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;773&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;0&quot;&gt;65678&lt;/subfield&gt;
+    &lt;subfield code=&quot;9&quot;&gt;90989&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;København.&lt;/subfield&gt;
+    &lt;subfield code=&quot;g&quot;&gt;10 (1983)&lt;/subfield&gt;
+    &lt;subfield code=&quot;t&quot;&gt;Københavns universitet,&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;830&quot; ind1=&quot; &quot; ind2=&quot;0&quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;238761&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Københavns universitet, Datalogisk institut. Rapport ;&lt;/subfield&gt;
+    &lt;subfield code=&quot;v&quot;&gt;1983:10&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;z&quot;&gt;002336928&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;200236&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Gruppekørsel (edb)&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;200237&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Real-time (edb)&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;200238&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Online (edb)&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;200239&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Offline (edb)&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;200240&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Batch processing&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;200241&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Time-sharing (edb)&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;200242&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Tidsdeling (edb)&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;200243&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Databehandling, principper og metoder&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;200244&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Edb, principper og metoder&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;200245&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Interaktiv edb&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;200246&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Tidstro edb&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;194548&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Enkeltnumre af en serie *** før 1997&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;194549&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Enkeltpublikation inden for en serie *** før 1997&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;999&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;c&quot;&gt;45636&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;45636&lt;/subfield&gt;
+  &lt;/datafield&gt;
+&lt;/record&gt;
+</marcxml>
+    <timestamp>2017-04-25 02:24:43</timestamp>
+    <items>
+    </items>
+    <cn_sort></cn_sort>
+    <place>København 1983,,</place>
+    <biblionumber>45636</biblionumber>
+  </record>
+</GetRecords>

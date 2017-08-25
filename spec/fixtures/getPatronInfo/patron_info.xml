@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GetPatronInfo>
+  <contactnote></contactnote>
+  <categorycode>PERSON</categorycode>
+  <BlockExpiredPatronOpacActions>1</BlockExpiredPatronOpacActions>
+  <updated_on>2017-01-30 11:46:40</updated_on>
+  <is_expired>0</is_expired>
+  <B_streetnumber></B_streetnumber>
+  <amountoutstanding>0</amountoutstanding>
+  <enrolmentperiod>0</enrolmentperiod>
+  <altcontactstate></altcontactstate>
+  <fines>
+    <fine>
+      <description>Coffee stains</description>
+      <accounttype>F</accounttype>
+      <accountlines_id>1</accountlines_id>
+      <notify_level>0</notify_level>
+      <accountno>1</accountno>
+      <borrowernumber>1</borrowernumber>
+      <date>2017-03-06</date>
+      <notify_id>1</notify_id>
+      <manager_id>0</manager_id>
+      <timestamp>2017-03-08 13:35:56</timestamp>
+      <note>Some note text</note>
+      <amountoutstanding>12.000000</amountoutstanding>
+      <amount>25.000000</amount>
+    </fine>
+    <fine>
+      <notify_level>0</notify_level>
+      <accountlines_id>2</accountlines_id>
+      <accounttype>C</accounttype>
+      <description></description>
+      <amountoutstanding>-12.000000</amountoutstanding>
+      <amount>-12.000000</amount>
+      <note></note>
+      <timestamp>2017-03-08 12:36:27</timestamp>
+      <notify_id>0</notify_id>
+      <manager_id>0</manager_id>
+      <date>2017-03-08</date>
+      <borrowernumber>1</borrowernumber>
+      <accountno>2</accountno>
+    </fine>
+    <fine>
+      <timestamp>2017-03-08 13:35:56</timestamp>
+      <note></note>
+      <amount>-13.000000</amount>
+      <amountoutstanding>0.000000</amountoutstanding>
+      <notify_id>0</notify_id>
+      <manager_id>0</manager_id>
+      <accountno>2</accountno>
+      <borrowernumber>1</borrowernumber>
+      <date>2017-03-08</date>
+      <notify_level>0</notify_level>
+      <accountlines_id>5</accountlines_id>
+      <accounttype>Pay</accounttype>
+      <description></description>
+    </fine>
+    <fine>
+      <notify_level>0</notify_level>
+      <accountlines_id>3</accountlines_id>
+      <accounttype>L</accounttype>
+      <description>commodore 64 book</description>
+      <timestamp>2017-03-08 12:45:47</timestamp>
+      <note></note>
+      <amountoutstanding>0.000000</amountoutstanding>
+      <amount>100.000000</amount>
+      <manager_id>0</manager_id>
+      <notify_id>1</notify_id>
+      <accountno>3</accountno>
+      <borrowernumber>1</borrowernumber>
+      <date>2017-03-08</date>
+    </fine>
+    <fine>
+      <accounttype>W</accounttype>
+      <description>Writeoff</description>
+      <notify_level>0</notify_level>
+      <accountlines_id>4</accountlines_id>
+      <accountno>4</accountno>
+      <borrowernumber>1</borrowernumber>
+      <date>2017-03-08</date>
+      <timestamp>2017-03-08 12:45:47</timestamp>
+      <note></note>
+      <amount>100.000000</amount>
+      <manager_id>0</manager_id>
+      <notify_id>0</notify_id>
+    </fine>
+  </fines>
+  <reservefee>0.000000</reservefee>
+  <holds>
+    <hold>
+      <item></item>
+      <reservedate>2017-01-30</reservedate>
+      <branchname>New Path</branchname>
+      <borrowernumber>1</borrowernumber>
+      <reserve_id>3</reserve_id>
+      <timestamp>2017-03-08 13:40:14</timestamp>
+      <title>Another test</title>
+      <suspend>0</suspend>
+      <branchcode>NP</branchcode>
+      <priority>1</priority>
+      <biblionumber>2</biblionumber>
+      <lowestPriority>0</lowestPriority>
+    </hold>
+    <hold>
+      <lowestPriority>0</lowestPriority>
+      <biblionumber>2</biblionumber>
+      <priority>2</priority>
+      <branchcode>NP</branchcode>
+      <title>Another test</title>
+      <suspend>0</suspend>
+      <timestamp>2017-03-08 13:40:14</timestamp>
+      <reserve_id>4</reserve_id>
+      <borrowernumber>1</borrowernumber>
+      <branchname>New Path</branchname>
+      <reservedate>2017-01-30</reservedate>
+      <item></item>
+    </hold>
+    <hold>
+      <title>Another test</title>
+      <suspend>0</suspend>
+      <timestamp>2017-03-08 13:40:14</timestamp>
+      <reserve_id>5</reserve_id>
+      <borrowernumber>1</borrowernumber>
+      <branchname>New Path</branchname>
+      <reservedate>2017-01-30</reservedate>
+      <item></item>
+      <lowestPriority>0</lowestPriority>
+      <biblionumber>2</biblionumber>
+      <priority>3</priority>
+      <branchcode>NP</branchcode>
+    </hold>
+  </holds>
+  <initials></initials>
+  <firstname>Bob</firstname>
+  <cardnumber>1</cardnumber>
+  <sort1></sort1>
+  <surname>Arctor</surname>
+  <description>a person</description>
+  <loans>
+    <loan>
+      <cn_source>ddc</cn_source>
+      <date_due_sql>2017-04-07 23:59:00</date_due_sql>
+      <cn_sort>10101_000000000000000</cn_sort>
+      <surname>Arctor</surname>
+      <replacementpricedate>2017-01-30</replacementpricedate>
+      <biblionumber>2</biblionumber>
+      <firstname>Bob</firstname>
+      <datecreated>2017-01-30</datecreated>
+      <itemnumber>1</itemnumber>
+      <cardnumber>1</cardnumber>
+      <itemtype>TEXT</itemtype>
+      <itemcallnumber>10101</itemcallnumber>
+      <timestamp>2017-03-08 13:40:14</timestamp>
+      <serial>0</serial>
+      <onsite_checkout>0</onsite_checkout>
+      <issues>1</issues>
+      <issuedate>2017-03-08 13:40</issuedate>
+      <notforloan>0</notforloan>
+      <dateaccessioned>2017-01-30</dateaccessioned>
+      <itype>TEXT</itype>
+      <damaged>0</damaged>
+      <barcode>10101</barcode>
+      <borrowernumber>1</borrowernumber>
+      <onloan>2017-04-07</onloan>
+      <itemlost>0</itemlost>
+      <issue_id>1</issue_id>
+      <date_due>2017-04-07 23:59</date_due>
+      <datelastborrowed>2017-03-08</datelastborrowed>
+      <biblioitemnumber>2</biblioitemnumber>
+      <homebranch>NP</homebranch>
+      <branchcode>NP</branchcode>
+      <holdingbranch>NP</holdingbranch>
+      <withdrawn>0</withdrawn>
+      <frameworkcode></frameworkcode>
+      <datelastseen>2017-03-08</datelastseen>
+      <auto_renew>0</auto_renew>
+      <title>Another test</title>
+    </loan>
+  </loans>
+  <borrowernotes></borrowernotes>
+  <B_address2></B_address2>
+  <state></state>
+  <B_country></B_country>
+  <category_type>A</category_type>
+  <B_state></B_state>
+  <title></title>
+  <privacy>1</privacy>
+  <branchcode>NP</branchcode>
+  <country></country>
+  <opacnote></opacnote>
+  <altcontactcountry></altcontactcountry>
+  <dateenrolled>2017-01-30</dateenrolled>
+  <privacy_guarantor_checkouts>0</privacy_guarantor_checkouts>
+  <borrowernumber>1</borrowernumber>
+  <branchname>New Path</branchname>
+  <sort2></sort2>
+  <sex></sex>
+  <dateexpiry>2107-01-01</dateexpiry>
+  <othernames></othernames>
+  <checkprevcheckout>inherit</checkprevcheckout>
+</GetPatronInfo>

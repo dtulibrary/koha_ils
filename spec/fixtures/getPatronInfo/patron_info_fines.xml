@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GetPatronInfo>
+  <enrolmentperiod>0</enrolmentperiod>
+  <loans>
+  </loans>
+  <branchname>DTU Bibliotek Lyngby</branchname>
+  <privacy_guarantor_checkouts>0</privacy_guarantor_checkouts>
+  <surname>H</surname>
+  <category_type>S</category_type>
+  <firstname>Søren</firstname>
+  <amountoutstanding>30</amountoutstanding>
+  <privacy>1</privacy>
+  <country>DANMARK</country>
+  <is_expired>0</is_expired>
+  <dateexpiry>2076-12-01</dateexpiry>
+  <sex>M</sex>
+  <address>Afdeling for Innovation og Sektorudvikling</address>
+  <phone>45454545</phone>
+  <email>user@dtu.dk</email>
+  <cardnumber>90F99999</cardnumber>
+  <description>Library staff</description>
+  <categorycode>STAFF</categorycode>
+  <branchcode>DTV</branchcode>
+  <fines>
+    <fine>
+      <accountlines_id>5</accountlines_id>
+      <notify_level>0</notify_level>
+      <itemnumber>170059</itemnumber>
+      <note>Test</note>
+      <borrowernumber>946</borrowernumber>
+      <amount>10.000000</amount>
+      <date>2017-04-21</date>
+      <description>F 170059</description>
+      <manager_id>1</manager_id>
+      <accounttype>F</accounttype>
+      <notify_id>1</notify_id>
+      <timestamp>2017-04-21 15:18:31</timestamp>
+      <accountno>1</accountno>
+      <amountoutstanding>10.000000</amountoutstanding>
+    </fine>
+    <fine>
+      <note>Test 2</note>
+      <itemnumber>170796</itemnumber>
+      <date>2017-04-21</date>
+      <amount>20.000000</amount>
+      <borrowernumber>946</borrowernumber>
+      <notify_level>0</notify_level>
+      <accountlines_id>6</accountlines_id>
+      <timestamp>2017-04-21 15:21:31</timestamp>
+      <notify_id>1</notify_id>
+      <accountno>2</accountno>
+      <amountoutstanding>20.000000</amountoutstanding>
+      <accounttype>F</accounttype>
+      <manager_id>1</manager_id>
+      <description>F 170796</description>
+    </fine>
+    <fine>
+      <notify_level>0</notify_level>
+      <accountlines_id>7</accountlines_id>
+      <note>Test 3</note>
+      <itemnumber>170792</itemnumber>
+      <amount>30.000000</amount>
+      <date>2017-04-21</date>
+      <borrowernumber>946</borrowernumber>
+      <accounttype>L</accounttype>
+      <manager_id>1</manager_id>
+      <description> 170792</description>
+      <timestamp>2017-04-21 15:26:27</timestamp>
+      <notify_id>1</notify_id>
+      <amountoutstanding>0.000000</amountoutstanding>
+      <accountno>3</accountno>
+    </fine>
+    <fine>
+      <manager_id>1</manager_id>
+      <description></description>
+      <accounttype>Pay</accounttype>
+      <timestamp>2017-04-21 15:26:27</timestamp>
+      <notify_id>0</notify_id>
+      <amountoutstanding>0.000000</amountoutstanding>
+      <accountno>4</accountno>
+      <accountlines_id>8</accountlines_id>
+      <notify_level>0</notify_level>
+      <note></note>
+      <itemnumber>170792</itemnumber>
+      <borrowernumber>946</borrowernumber>
+      <amount>-30.000000</amount>
+      <date>2017-04-21</date>
+    </fine>
+  </fines>
+  <dateenrolled>2013-09-01</dateenrolled>
+  <initials>init</initials>
+  <address2>Att: Søren H, Somewhere at DTU</address2>
+  <borrowernumber>999</borrowernumber>
+  <dateofbirth>1968-11-19</dateofbirth>
+  <updated_on>2017-03-03 18:54:11</updated_on>
+  <charges>30.00</charges>
+  <zipcode>2800</zipcode>
+  <city>Kgs. Lyngby</city>
+  <BlockExpiredPatronOpacActions>1</BlockExpiredPatronOpacActions>
+  <reservefee>0.000000</reservefee>
+</GetPatronInfo>

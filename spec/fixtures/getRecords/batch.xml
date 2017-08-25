@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GetRecords>
+  <record>
+    <timestamp>2017-04-25 01:54:22</timestamp>
+    <biblionumber>266</biblionumber>
+    <biblioitemnumber>266</biblioitemnumber>
+    <cn_sort></cn_sort>
+    <marcxml>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;record
+    xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;
+    xsi:schemaLocation=&quot;http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd&quot;
+    xmlns=&quot;http://www.loc.gov/MARC21/slim&quot;&gt;
+
+  &lt;leader&gt;01673nam-a22003974--4500&lt;/leader&gt;
+  &lt;controlfield tag=&quot;001&quot;&gt;000004201&lt;/controlfield&gt;
+  &lt;controlfield tag=&quot;008&quot;&gt;000000s1968||||xx||||||||||||00||||eng|d&lt;/controlfield&gt;
+  &lt;controlfield tag=&quot;008&quot;&gt;9812180u----0---4---uu---1------&lt;/controlfield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;pst - 4201&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;seq - 4201&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;2022&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;631.8&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Plantenæringsstoffer (landbrug)&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Handelsgødninger (landbrug)&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Kunstgødninger (landbrug)&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Naturgødninger (landbrug)&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Ajle&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Gylle&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Biodynamisk jorddyrkning&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Landbrug, økologisk&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Økologisk landbrug&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Gødskning (landbrug)&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Gødningsmidler (landbrug)&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;7&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;(04)&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Enkeltpublikation inden for en serie *** før 1997&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Enkeltnumre af en serie *** før 1997&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;245&quot; ind1=&quot;0&quot; ind2=&quot;0&quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Controlled release fertilizers.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;260&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Park Ridge,J.J.,,&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;1968.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;300&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;279 s.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;490&quot; ind1=&quot;1&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Chemical process review ;&lt;/subfield&gt;
+    &lt;subfield code=&quot;v&quot;&gt;15&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;500&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;[Bibl.s. 276-278]..&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;700&quot; ind1=&quot;1&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;3917&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Powell, R.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;710&quot; ind1=&quot;2&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;335682&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;NDC.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;773&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;0&quot;&gt;59284&lt;/subfield&gt;
+    &lt;subfield code=&quot;9&quot;&gt;253&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;Park Ridge,N.J.&lt;/subfield&gt;
+    &lt;subfield code=&quot;g&quot;&gt;15 (1968)&lt;/subfield&gt;
+    &lt;subfield code=&quot;t&quot;&gt;Chemical process&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;830&quot; ind1=&quot; &quot; ind2=&quot;0&quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;207905&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Chemical process review ;&lt;/subfield&gt;
+    &lt;subfield code=&quot;v&quot;&gt;15&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;z&quot;&gt;001009427&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;195291&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Handelsgødninger (landbrug)&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;195292&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Gylle&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;195293&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Ajle&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;195294&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Kunstgødninger (landbrug)&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;195295&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Økologisk landbrug&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;195296&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Gødningsmidler (landbrug)&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;195297&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Biodynamisk jorddyrkning&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;195298&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Plantenæringsstoffer (landbrug)&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;195299&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Landbrug, økologisk&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;195300&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Naturgødninger (landbrug)&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;195301&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Gødskning (landbrug)&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;194548&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Enkeltnumre af en serie *** før 1997&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;194549&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Enkeltpublikation inden for en serie *** før 1997&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;999&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;c&quot;&gt;266&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;266&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;952&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;0&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;1&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;4&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;7&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;9&quot;&gt;253&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;DTV&lt;/subfield&gt;
+    &lt;subfield code=&quot;b&quot;&gt;DTV&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;MAG&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;1992-03-09&lt;/subfield&gt;
+    &lt;subfield code=&quot;h&quot;&gt;1968 15&lt;/subfield&gt;
+    &lt;subfield code=&quot;o&quot;&gt;Chemical process&lt;/subfield&gt;
+    &lt;subfield code=&quot;p&quot;&gt;300000414151&lt;/subfield&gt;
+    &lt;subfield code=&quot;r&quot;&gt;2017-04-24&lt;/subfield&gt;
+    &lt;subfield code=&quot;w&quot;&gt;2017-04-24&lt;/subfield&gt;
+    &lt;subfield code=&quot;y&quot;&gt;LOANSER&lt;/subfield&gt;
+  &lt;/datafield&gt;
+&lt;/record&gt;
+</marcxml>
+    <reserves>
+    </reserves>
+    <pages>279 s.</pages>
+    <issues>
+    </issues>
+    <place>Park Ridge,J.J.,,</place>
+    <items>
+      <item>
+        <location>MAG</location>
+        <withdrawn>0</withdrawn>
+        <cn_sort>CHEMICAL_PROCESS</cn_sort>
+        <biblioitemnumber>266</biblioitemnumber>
+        <biblionumber>266</biblionumber>
+        <timestamp>2017-04-24 17:46:50</timestamp>
+        <itemcallnumber>Chemical process</itemcallnumber>
+        <replacementpricedate>2017-04-24</replacementpricedate>
+        <notforloan>0</notforloan>
+        <datelastseen>2017-04-24</datelastseen>
+        <damaged>0</damaged>
+        <enumchron>1968 15</enumchron>
+        <holdingbranch>DTV</holdingbranch>
+        <itemlost>0</itemlost>
+        <homebranchname>DTU Bibliotek Lyngby</homebranchname>
+        <dateaccessioned>1992-03-09</dateaccessioned>
+        <homebranch>DTV</homebranch>
+        <itemnumber>253</itemnumber>
+        <date_due></date_due>
+        <holdingbranchname>DTU Bibliotek Lyngby</holdingbranchname>
+        <permanent_location>MAG</permanent_location>
+        <itype>LOANSER</itype>
+        <barcode>300000414151</barcode>
+      </item>
+    </items>
+  </record>
+  <record>
+    <timestamp>2017-04-25 01:11:06</timestamp>
+    <marcxml>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;record
+    xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;
+    xsi:schemaLocation=&quot;http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd&quot;
+    xmlns=&quot;http://www.loc.gov/MARC21/slim&quot;&gt;
+
+  &lt;leader&gt;02599nam-a22002770--4500&lt;/leader&gt;
+  &lt;controlfield tag=&quot;001&quot;&gt;000507147&lt;/controlfield&gt;
+  &lt;controlfield tag=&quot;008&quot;&gt;000000s1992||||dk||||||||||||00||||dan|d&lt;/controlfield&gt;
+  &lt;controlfield tag=&quot;008&quot;&gt;9812180u----0---4---uu---1------&lt;/controlfield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;seq - 507147&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;020&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;8789822064&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;041&quot; ind1=&quot;0&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;dan&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;205448&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;E.134&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;245&quot; ind1=&quot;0&quot; ind2=&quot;0&quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Slam- og spildevandsgødskning i skove og energiplantager Biomass plantations.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;260&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;c&quot;&gt;1992.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;300&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;50 s.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;490&quot; ind1=&quot;1&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;NEI-DK--990&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;490&quot; ind1=&quot;1&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Skovbrugsserien, 2-1992&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;520&quot; ind1=&quot;8&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;The use of municipal sewage sludge and other organic wastes as fertilizers has major drawbacks due to their content of pathogens and heavy metals. An enhanced use of organic waste as a fertilizer in non-food crops of little recreational value offers a solution. The growing of hardwoods in short rotation intensive culture (SRIC) for energy purposes is discussed. The net nutrient demand in forest stands is normally small as the amount of nutrients removed following silvicultural practices is small. In the process of harvesting of such stands, substantiaL amounts of nutrients can be removed. In such instances the application of organic waste can be of great growth enhancing value. A long-term problem is posed by the heavy metal content of the organic wastes. Most heavy metals are released very slowly to the soil solution so that plant uptake is generally small. When growing SRIC, large amounts of nutrients are removed with the crop and organic wastes can be applied regularly. High dry matter increments might be a result of such fertilization. Burning the wood crops for energy is best undertaken in larger boilers where combustion can be controlled. 15-20% of the nitrogen content is converted into NO_x, which return to the surroundings as nitrate. The main part of the remainder is converted to dinitrogen gas and is thus taken out of the ecosystem. The heavy metal content in the ash may be too large for potential use of this ash for fertilization purposes. (AB) (77 refs.).&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;700&quot; ind1=&quot;1&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;159768&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Hauge Nielsen, K.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;710&quot; ind1=&quot;2&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;375193&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Landbrugsministeriet, Copenhagen (Denmark). Forskningscentret for Skov og Landskab.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;740&quot; ind1=&quot;0&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Sludge and sewage fertilization in forests and energy plantations.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;830&quot; ind1=&quot; &quot; ind2=&quot;0&quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;320300&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;NEI-DK--990&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;830&quot; ind1=&quot; &quot; ind2=&quot;0&quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;320301&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Skovbrugsserien, 2-1992&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;583&quot; ind1=&quot;0&quot; ind2=&quot;0&quot;&gt;
+    &lt;subfield code=&quot;b&quot;&gt;FERTILIZATION:Q1; BIOMASS PLANTATIONS:T1; SLUDGES; SEWAGE; ENVIRONMENTAL EFFECTS; SHORT ROTATION CULTIVATION; STATISTICAL DATA; GROWTH; STIMULATION; UPTAKE; WASTE PRODUCT UTILIZATION&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;852&quot; ind1=&quot;8&quot; ind2=&quot;0&quot;&gt;
+    &lt;subfield code=&quot;b&quot;&gt;EFP&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;E.134 Slam- og spildevandsgødskning i skove og energiplantager&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;999&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;c&quot;&gt;285567&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;285567&lt;/subfield&gt;
+  &lt;/datafield&gt;
+&lt;/record&gt;
+</marcxml>
+    <biblionumber>285567</biblionumber>
+    <biblioitemnumber>285567</biblioitemnumber>
+    <cn_sort></cn_sort>
+    <reserves>
+    </reserves>
+    <pages>50 s.</pages>
+    <issues>
+    </issues>
+    <items>
+    </items>
+    <isbn>8789822064</isbn>
+  </record>
+  <record>
+    <isbn>0444886990</isbn>
+    <items>
+      <item>
+        <date_due></date_due>
+        <itemnumber>139598</itemnumber>
+        <homebranch>DTV</homebranch>
+        <dateaccessioned>1990-10-30</dateaccessioned>
+        <homebranchname>DTU Bibliotek Lyngby</homebranchname>
+        <itemlost>0</itemlost>
+        <holdingbranch>DTV</holdingbranch>
+        <barcode>300007457255</barcode>
+        <itype>LONGLOAN</itype>
+        <permanent_location>STACK</permanent_location>
+        <datelastborrowed>2010-12-22</datelastborrowed>
+        <holdingbranchname>DTU Bibliotek Lyngby</holdingbranchname>
+        <timestamp>2017-04-24 19:18:11</timestamp>
+        <biblionumber>91494</biblionumber>
+        <biblioitemnumber>91494</biblioitemnumber>
+        <cn_sort>504_MODELLING</cn_sort>
+        <withdrawn>0</withdrawn>
+        <location>STACK</location>
+        <damaged>0</damaged>
+        <datelastseen>2017-04-24</datelastseen>
+        <notforloan>0</notforloan>
+        <issues>16</issues>
+        <replacementpricedate>2017-04-24</replacementpricedate>
+        <itemcallnumber>504 Modelling</itemcallnumber>
+      </item>
+    </items>
+    <biblionumber>91494</biblionumber>
+    <biblioitemnumber>91494</biblioitemnumber>
+    <cn_sort></cn_sort>
+    <marcxml>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;record
+    xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;
+    xsi:schemaLocation=&quot;http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd&quot;
+    xmlns=&quot;http://www.loc.gov/MARC21/slim&quot;&gt;
+
+  &lt;leader&gt;00930nam-a22002774--4500&lt;/leader&gt;
+  &lt;controlfield tag=&quot;001&quot;&gt;000179852&lt;/controlfield&gt;
+  &lt;controlfield tag=&quot;008&quot;&gt;000000s1990||||xx||||||||||||00||||eng|d&lt;/controlfield&gt;
+  &lt;controlfield tag=&quot;008&quot;&gt;9812180u----0---4---uu---1------&lt;/controlfield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;pst - 179852&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;seq - 179852&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;020&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;0444886990&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;455&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;51.001.572&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Matematiske modeller (generelt)&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Modeller, matematiske (generelt)&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;426&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;504&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Miljølære&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;245&quot; ind1=&quot;0&quot; ind2=&quot;0&quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Modelling in ecotoxicology.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;260&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Amsterdam :&lt;/subfield&gt;
+    &lt;subfield code=&quot;b&quot;&gt;Elsevier,&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;1990.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;300&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;353 s.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;490&quot; ind1=&quot;1&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Developments in environmental modelling ;&lt;/subfield&gt;
+    &lt;subfield code=&quot;v&quot;&gt;16&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;504&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Litteraturhenvisninger..&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;700&quot; ind1=&quot;1&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;7646&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Jørgensen, S.E.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;830&quot; ind1=&quot; &quot; ind2=&quot;0&quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;248366&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Developments in environmental modelling ;&lt;/subfield&gt;
+    &lt;subfield code=&quot;v&quot;&gt;16&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;583&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;x&quot;&gt;økotoksikologi.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;583&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;z&quot;&gt;901121&lt;/subfield&gt;
+    &lt;subfield code=&quot;j&quot;&gt;K&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;197724&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Modeller, matematiske (generelt)&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;197725&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Matematiske modeller (generelt)&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;194546&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Miljølære&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;999&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;c&quot;&gt;91494&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;91494&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;952&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;0&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;1&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;4&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;7&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;9&quot;&gt;139598&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;DTV&lt;/subfield&gt;
+    &lt;subfield code=&quot;b&quot;&gt;DTV&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;STACK&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;1990-10-30&lt;/subfield&gt;
+    &lt;subfield code=&quot;l&quot;&gt;16&lt;/subfield&gt;
+    &lt;subfield code=&quot;o&quot;&gt;504 Modelling&lt;/subfield&gt;
+    &lt;subfield code=&quot;p&quot;&gt;300007457255&lt;/subfield&gt;
+    &lt;subfield code=&quot;r&quot;&gt;2017-04-24&lt;/subfield&gt;
+    &lt;subfield code=&quot;s&quot;&gt;2010-12-22&lt;/subfield&gt;
+    &lt;subfield code=&quot;w&quot;&gt;2017-04-24&lt;/subfield&gt;
+    &lt;subfield code=&quot;y&quot;&gt;LONGLOAN&lt;/subfield&gt;
+  &lt;/datafield&gt;
+&lt;/record&gt;
+</marcxml>
+    <timestamp>2017-04-25 02:42:14</timestamp>
+    <publishercode>Elsevier,</publishercode>
+    <pages>353 s.</pages>
+    <issues>
+    </issues>
+    <place>Amsterdam :</place>
+    <reserves>
+    </reserves>
+  </record>
+</GetRecords>

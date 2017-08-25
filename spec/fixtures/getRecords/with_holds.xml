@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GetRecords>
+  <record>
+    <items>
+      <item>
+        <notforloan>3</notforloan>
+        <homebranchname>DTU Bibliotek Lyngby</homebranchname>
+        <date_due></date_due>
+        <holdingbranch>DTV</holdingbranch>
+        <cn_sort>54_CHEMICAL</cn_sort>
+        <damaged>0</damaged>
+        <location>LB</location>
+        <timestamp>2017-04-24 20:28:30</timestamp>
+        <itype>TEXTBOOK</itype>
+        <datelastseen>2017-04-24</datelastseen>
+        <biblionumber>270423</biblionumber>
+        <withdrawn>0</withdrawn>
+        <dateaccessioned>2012-09-03</dateaccessioned>
+        <itemcallnumber>54 Chemical</itemcallnumber>
+        <itemlost>0</itemlost>
+        <holdingbranchname>DTU Bibliotek Lyngby</holdingbranchname>
+        <permanent_location>LB</permanent_location>
+        <biblioitemnumber>270423</biblioitemnumber>
+        <itemnumber>235772</itemnumber>
+        <barcode>300216130</barcode>
+        <homebranch>DTV</homebranch>
+        <replacementpricedate>2017-04-24</replacementpricedate>
+      </item>
+      <item>
+        <cn_sort>54_CHEMICAL</cn_sort>
+        <holdingbranch>DTV</holdingbranch>
+        <date_due></date_due>
+        <location>STACK</location>
+        <damaged>0</damaged>
+        <notforloan>0</notforloan>
+        <homebranchname>DTU Bibliotek Lyngby</homebranchname>
+        <datelastborrowed>2016-04-25</datelastborrowed>
+        <withdrawn>0</withdrawn>
+        <dateaccessioned>2016-04-19</dateaccessioned>
+        <biblionumber>270423</biblionumber>
+        <itemlost>0</itemlost>
+        <holdingbranchname>DTU Bibliotek Lyngby</holdingbranchname>
+        <itemcallnumber>54 Chemical</itemcallnumber>
+        <timestamp>2017-04-24 20:28:30</timestamp>
+        <datelastseen>2017-04-24</datelastseen>
+        <itype>LONGLOAN</itype>
+        <price>612.00</price>
+        <itemnumber>235773</itemnumber>
+        <biblioitemnumber>270423</biblioitemnumber>
+        <permanent_location>STACK</permanent_location>
+        <replacementpricedate>2017-04-24</replacementpricedate>
+        <barcode>300233463</barcode>
+        <homebranch>DTV</homebranch>
+      </item>
+    </items>
+    <cn_sort></cn_sort>
+    <reserves>
+      <reserve>
+        <borrowernumber>12206</borrowernumber>
+        <suspend>0</suspend>
+        <rtimestamp>2017-06-08 12:16:57</rtimestamp>
+        <priority>1</priority>
+        <branchcode>DTV</branchcode>
+        <reservedate>2017-06-08</reservedate>
+        <lowestPriority>0</lowestPriority>
+        <biblionumber>270423</biblionumber>
+        <reserve_id>2</reserve_id>
+      </reserve>
+    </reserves>
+    <biblionumber>270423</biblionumber>
+    <place>Boston :</place>
+    <issues>
+    </issues>
+    <timestamp>2017-04-25 03:35:16</timestamp>
+    <isbn>9781111989002 | 1111989001</isbn>
+    <biblioitemnumber>270423</biblioitemnumber>
+    <marcxml>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;record
+    xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;
+    xsi:schemaLocation=&quot;http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd&quot;
+    xmlns=&quot;http://www.loc.gov/MARC21/slim&quot;&gt;
+
+  &lt;leader&gt;00733nam-a22002650--4500&lt;/leader&gt;
+  &lt;controlfield tag=&quot;001&quot;&gt;000491642&lt;/controlfield&gt;
+  &lt;controlfield tag=&quot;008&quot;&gt;000000s2013||||xx||||||||||||00||||eng|d&lt;/controlfield&gt;
+  &lt;controlfield tag=&quot;008&quot;&gt;1209032u----8---4001uudan0000000&lt;/controlfield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;pst - 491642&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;pst - 491642&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;seq - 491642&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;020&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;9781111989002&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;020&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;1111989001&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;834&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;54&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Kemi&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;18&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;(075.8)&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Lærebøger ved DTU&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;245&quot; ind1=&quot;0&quot; ind2=&quot;0&quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Chemical principles /&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;Steven S. Zumdahl.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;250&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;7. ed.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;260&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Boston :&lt;/subfield&gt;
+    &lt;subfield code=&quot;b&quot;&gt;Houghton Mifflin,&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;2013.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;300&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;1077 s.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;500&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Includes index.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;650&quot; ind1=&quot; &quot; ind2=&quot;0&quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;186442&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Chemistry.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;700&quot; ind1=&quot;1&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;58905&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Zumdahl, S.S.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;194663&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Kemi&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;198723&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Lærebøger ved DTU&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;999&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;c&quot;&gt;270423&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;270423&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;952&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;0&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;1&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;4&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;6&quot;&gt;54_CHEMICAL&lt;/subfield&gt;
+    &lt;subfield code=&quot;7&quot;&gt;3&lt;/subfield&gt;
+    &lt;subfield code=&quot;9&quot;&gt;235772&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;DTV&lt;/subfield&gt;
+    &lt;subfield code=&quot;b&quot;&gt;DTV&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;LB&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;2012-09-03&lt;/subfield&gt;
+    &lt;subfield code=&quot;o&quot;&gt;54 Chemical&lt;/subfield&gt;
+    &lt;subfield code=&quot;p&quot;&gt;300216130&lt;/subfield&gt;
+    &lt;subfield code=&quot;r&quot;&gt;2017-04-24&lt;/subfield&gt;
+    &lt;subfield code=&quot;w&quot;&gt;2017-04-24&lt;/subfield&gt;
+    &lt;subfield code=&quot;y&quot;&gt;TEXTBOOK&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;952&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;0&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;1&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;4&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;6&quot;&gt;54_CHEMICAL&lt;/subfield&gt;
+    &lt;subfield code=&quot;7&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;9&quot;&gt;235773&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;DTV&lt;/subfield&gt;
+    &lt;subfield code=&quot;b&quot;&gt;DTV&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;STACK&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;2016-04-19&lt;/subfield&gt;
+    &lt;subfield code=&quot;g&quot;&gt;612.00&lt;/subfield&gt;
+    &lt;subfield code=&quot;o&quot;&gt;54 Chemical&lt;/subfield&gt;
+    &lt;subfield code=&quot;p&quot;&gt;300233463&lt;/subfield&gt;
+    &lt;subfield code=&quot;r&quot;&gt;2017-04-24&lt;/subfield&gt;
+    &lt;subfield code=&quot;s&quot;&gt;2016-04-25&lt;/subfield&gt;
+    &lt;subfield code=&quot;w&quot;&gt;2017-04-24&lt;/subfield&gt;
+    &lt;subfield code=&quot;y&quot;&gt;LONGLOAN&lt;/subfield&gt;
+  &lt;/datafield&gt;
+&lt;/record&gt;
+</marcxml>
+    <pages>1077 s.</pages>
+    <editionstatement>7. ed.</editionstatement>
+    <publishercode>Houghton Mifflin,</publishercode>
+  </record>
+</GetRecords>

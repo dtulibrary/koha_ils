@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GetRecords>
+  <record>
+    <reserves>
+    </reserves>
+    <cn_sort></cn_sort>
+    <items>
+    </items>
+    <issues>
+    </issues>
+    <timestamp>2017-04-25 00:03:35</timestamp>
+    <biblionumber>1</biblionumber>
+    <marcxml>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;record
+    xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;
+    xsi:schemaLocation=&quot;http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd&quot;
+    xmlns=&quot;http://www.loc.gov/MARC21/slim&quot;&gt;
+
+  &lt;leader&gt;00475nam-a22001814--4500&lt;/leader&gt;
+  &lt;controlfield tag=&quot;001&quot;&gt;000000205&lt;/controlfield&gt;
+  &lt;controlfield tag=&quot;008&quot;&gt;000000s1981||||xx||||||||||||00||||eng|d&lt;/controlfield&gt;
+  &lt;controlfield tag=&quot;008&quot;&gt;9812180u----0---4---uu---1------&lt;/controlfield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;seq - 205&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;245&quot; ind1=&quot;0&quot; ind2=&quot;0&quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Sound measurements of the MOD-2 wind turbine generator.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;260&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;c&quot;&gt;1981.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;300&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;(Forsk.pag.).&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;490&quot; ind1=&quot;1&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;NASA CR ;&lt;/subfield&gt;
+    &lt;subfield code=&quot;v&quot;&gt;165752&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;700&quot; ind1=&quot;1&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;3614&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Hubbard, H. H.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;830&quot; ind1=&quot; &quot; ind2=&quot;0&quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;207772&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;NASA CR ;&lt;/subfield&gt;
+    &lt;subfield code=&quot;v&quot;&gt;165752&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;z&quot;&gt;000901040&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;583&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;z&quot;&gt;RE&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;999&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;c&quot;&gt;1&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;1&lt;/subfield&gt;
+  &lt;/datafield&gt;
+&lt;/record&gt;
+</marcxml>
+    <biblioitemnumber>1</biblioitemnumber>
+    <pages>(Forsk.pag.).</pages>
+  </record>
+  <record>
+    <cn_sort></cn_sort>
+    <items>
+    </items>
+    <reserves>
+    </reserves>
+    <timestamp>2017-04-25 00:03:35</timestamp>
+    <issues>
+    </issues>
+    <biblionumber>2</biblionumber>
+    <pages>56 s.</pages>
+    <marcxml>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;record
+    xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;
+    xsi:schemaLocation=&quot;http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd&quot;
+    xmlns=&quot;http://www.loc.gov/MARC21/slim&quot;&gt;
+
+  &lt;leader&gt;00464nam-a22001814--4500&lt;/leader&gt;
+  &lt;controlfield tag=&quot;001&quot;&gt;000000743&lt;/controlfield&gt;
+  &lt;controlfield tag=&quot;008&quot;&gt;000000s1981||||xx||||||||||||00||||eng|d&lt;/controlfield&gt;
+  &lt;controlfield tag=&quot;008&quot;&gt;9812180u----0---4---uu---1------&lt;/controlfield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;seq - 743&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;245&quot; ind1=&quot;0&quot; ind2=&quot;0&quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Evaluation of the effects of solar radiation on glasses.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;260&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;c&quot;&gt;1981.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;300&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;56 s.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;490&quot; ind1=&quot;1&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;NASA CR ;&lt;/subfield&gt;
+    &lt;subfield code=&quot;v&quot;&gt;161907&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;700&quot; ind1=&quot;1&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;3615&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Harada, Y.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;830&quot; ind1=&quot; &quot; ind2=&quot;0&quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;207773&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;NASA CR ;&lt;/subfield&gt;
+    &lt;subfield code=&quot;v&quot;&gt;161907&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;z&quot;&gt;000906425&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;583&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;z&quot;&gt;KM&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;999&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;c&quot;&gt;2&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;2&lt;/subfield&gt;
+  &lt;/datafield&gt;
+&lt;/record&gt;
+</marcxml>
+    <biblioitemnumber>2</biblioitemnumber>
+  </record>
+  <record>
+    <editionstatement>7.udg.</editionstatement>
+    <biblioitemnumber>99999</biblioitemnumber>
+    <marcxml>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;record
+    xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;
+    xsi:schemaLocation=&quot;http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd&quot;
+    xmlns=&quot;http://www.loc.gov/MARC21/slim&quot;&gt;
+
+  &lt;leader&gt;00468nam-a22001814--4500&lt;/leader&gt;
+  &lt;controlfield tag=&quot;001&quot;&gt;000201444&lt;/controlfield&gt;
+  &lt;controlfield tag=&quot;008&quot;&gt;000000s1967||||xx||||||||||||00||||dan|d&lt;/controlfield&gt;
+  &lt;controlfield tag=&quot;008&quot;&gt;9812180u----0---4---uu---1------&lt;/controlfield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;pst - 201444&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;seq - 201444&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;196280&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;801.3&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;245&quot; ind1=&quot;0&quot; ind2=&quot;0&quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Dansk-engelsk ordbog.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;250&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;7.udg.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;260&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;København :&lt;/subfield&gt;
+    &lt;subfield code=&quot;b&quot;&gt;Gyldendal,&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;1967.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;300&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;464 s.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;700&quot; ind1=&quot;1&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;12224&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Vinterberg, H.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;700&quot; ind1=&quot;1&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;12226&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Axelsen, J.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;999&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;c&quot;&gt;99999&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;99999&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;952&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;0&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;1&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;4&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;6&quot;&gt;8013_VIN&lt;/subfield&gt;
+    &lt;subfield code=&quot;7&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;9&quot;&gt;147364&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;DTV&lt;/subfield&gt;
+    &lt;subfield code=&quot;b&quot;&gt;DTV&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;MAG&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;1992-07-08&lt;/subfield&gt;
+    &lt;subfield code=&quot;l&quot;&gt;4&lt;/subfield&gt;
+    &lt;subfield code=&quot;o&quot;&gt;801.3 Vin&lt;/subfield&gt;
+    &lt;subfield code=&quot;p&quot;&gt;300007856729&lt;/subfield&gt;
+    &lt;subfield code=&quot;r&quot;&gt;2017-04-24&lt;/subfield&gt;
+    &lt;subfield code=&quot;w&quot;&gt;2017-04-24&lt;/subfield&gt;
+    &lt;subfield code=&quot;y&quot;&gt;LONGLOAN&lt;/subfield&gt;
+  &lt;/datafield&gt;
+&lt;/record&gt;
+</marcxml>
+    <pages>464 s.</pages>
+    <publishercode>Gyldendal,</publishercode>
+    <items>
+      <item>
+        <barcode>300007856729</barcode>
+        <homebranch>DTV</homebranch>
+        <replacementpricedate>2017-04-24</replacementpricedate>
+        <permanent_location>MAG</permanent_location>
+        <biblioitemnumber>99999</biblioitemnumber>
+        <itemnumber>147364</itemnumber>
+        <timestamp>2017-04-24 19:23:35</timestamp>
+        <itype>LONGLOAN</itype>
+        <issues>4</issues>
+        <datelastseen>2017-04-24</datelastseen>
+        <biblionumber>99999</biblionumber>
+        <dateaccessioned>1992-07-08</dateaccessioned>
+        <withdrawn>0</withdrawn>
+        <itemcallnumber>801.3 Vin</itemcallnumber>
+        <itemlost>0</itemlost>
+        <holdingbranchname>DTU Bibliotek Lyngby</holdingbranchname>
+        <notforloan>0</notforloan>
+        <homebranchname>DTU Bibliotek Lyngby</homebranchname>
+        <date_due></date_due>
+        <holdingbranch>DTV</holdingbranch>
+        <cn_sort>8013_VIN</cn_sort>
+        <damaged>0</damaged>
+        <location>MAG</location>
+      </item>
+    </items>
+    <cn_sort></cn_sort>
+    <reserves>
+    </reserves>
+    <place>København :</place>
+    <issues>
+    </issues>
+    <timestamp>2017-04-24 23:45:26</timestamp>
+    <biblionumber>99999</biblionumber>
+  </record>
+</GetRecords>

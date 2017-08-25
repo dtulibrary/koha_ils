@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dlf:collection
+  xmlns:dlf="http://diglib.org/ilsdi/1.1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://diglib.org/ilsdi/1.1
+    http://diglib.org/architectures/ilsdi/schemas/1.1/dlfexpanded.xsd">
+  <dlf:record>
+    <dlf:bibliographic id="4731" />
+    <dlf:items>
+    </dlf:items>
+  </dlf:record>
+  <dlf:record>
+    <dlf:bibliographic id="000004731" />
+    <dlf:items>
+      <dlf:item id="3084">
+        <dlf:simpleavailability>
+          <dlf:identifier>3084</dlf:identifier>
+          <dlf:availabilitystatus>available</dlf:availabilitystatus>
+          <dlf:location>DTU Bibliotek Lyngby</dlf:location>
+        </dlf:simpleavailability>
+      </dlf:item>
+      <dlf:item id="3085">
+        <dlf:simpleavailability>
+          <dlf:identifier>3085</dlf:identifier>
+          <dlf:availabilitystatus>available</dlf:availabilitystatus>
+          <dlf:location>DTU Bibliotek Lyngby</dlf:location>
+        </dlf:simpleavailability>
+      </dlf:item>
+    </dlf:items>
+  </dlf:record>
+</dlf:collection>

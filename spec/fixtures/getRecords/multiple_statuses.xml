@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GetRecords>
+  <record>
+    <items>
+    </items>
+    <isbn>0262081571</isbn>
+    <marcxml>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;record
+    xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;
+    xsi:schemaLocation=&quot;http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd&quot;
+    xmlns=&quot;http://www.loc.gov/MARC21/slim&quot;&gt;
+
+  &lt;leader&gt;00753nam-a22002294--4500&lt;/leader&gt;
+  &lt;controlfield tag=&quot;001&quot;&gt;000369175&lt;/controlfield&gt;
+  &lt;controlfield tag=&quot;008&quot;&gt;000000s1986||||xx||||||||||||00||||eng|d&lt;/controlfield&gt;
+  &lt;controlfield tag=&quot;008&quot;&gt;9812180u----0---4---uu---1------&lt;/controlfield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;seq - 369175&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;020&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;0262081571&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;245&quot; ind1=&quot;0&quot; ind2=&quot;0&quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;The connection machine.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;260&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Cambridge,Mass. ; London :&lt;/subfield&gt;
+    &lt;subfield code=&quot;b&quot;&gt;MIT Press,&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;1986.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;300&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;13+190s.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;490&quot; ind1=&quot;1&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;MIT Press series in artificial intelligence&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;500&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Massachusetts Institute of Technology ; thesis 1985. - Bibl..&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;700&quot; ind1=&quot;1&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;27366&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Hillis, W.D.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;710&quot; ind1=&quot;2&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;335984&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Association for Computing Machinery.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;830&quot; ind1=&quot; &quot; ind2=&quot;0&quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;230777&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;MIT Press series in artificial intelligence&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;z&quot;&gt;916018843&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;852&quot; ind1=&quot;8&quot; ind2=&quot;0&quot;&gt;
+    &lt;subfield code=&quot;b&quot;&gt;IMM&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;CST C.1.2 Hil&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;583&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;z&quot;&gt;1&lt;/subfield&gt;
+    &lt;subfield code=&quot;b&quot;&gt;C.1.2&lt;/subfield&gt;
+    &lt;subfield code=&quot;2&quot;&gt;IT&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;999&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;c&quot;&gt;173470&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;173470&lt;/subfield&gt;
+  &lt;/datafield&gt;
+&lt;/record&gt;
+</marcxml>
+    <reserves>
+    </reserves>
+    <cn_sort></cn_sort>
+    <pages>13+190s.</pages>
+    <timestamp>2017-04-25 00:58:03</timestamp>
+    <issues>
+    </issues>
+    <biblionumber>173470</biblionumber>
+    <publishercode>MIT Press,</publishercode>
+    <place>Cambridge,Mass. ; London :</place>
+    <biblioitemnumber>173470</biblioitemnumber>
+  </record>
+  <record>
+    <reserves>
+      <reserve>
+        <reserve_id>5</reserve_id>
+        <suspend>0</suspend>
+        <biblionumber>33891</biblionumber>
+        <priority>1</priority>
+        <branchcode>DTV</branchcode>
+        <rtimestamp>2017-06-19 12:07:31</rtimestamp>
+        <borrowernumber>4</borrowernumber>
+        <reservedate>2017-06-19</reservedate>
+        <lowestPriority>0</lowestPriority>
+      </reserve>
+    </reserves>
+    <cn_sort></cn_sort>
+    <pages>15+190 s.</pages>
+    <isbn>0262081571</isbn>
+    <marcxml>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;record
+    xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;
+    xsi:schemaLocation=&quot;http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd&quot;
+    xmlns=&quot;http://www.loc.gov/MARC21/slim&quot;&gt;
+
+  &lt;leader&gt;01999nam-a22004694--4500&lt;/leader&gt;
+  &lt;controlfield tag=&quot;001&quot;&gt;000083789&lt;/controlfield&gt;
+  &lt;controlfield tag=&quot;008&quot;&gt;000000s1985||||xx||||||||||||00||||eng|d&lt;/controlfield&gt;
+  &lt;controlfield tag=&quot;008&quot;&gt;9812180u----0---4---uu---1------&lt;/controlfield&gt;
+  &lt;controlfield tag=&quot;008&quot;&gt;9904220u----0---4---uu---1------&lt;/controlfield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;pst - 83789&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;pst - 83789&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;seq - 83789&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;020&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;0262081571&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;2814&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;681.513.7/.8&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Selvorganiserende styringssystemer&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Learning control systems&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Ekspertsystemer&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Lærende og selvorganiserende styringssystemer&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Styringssystemer, lærende og selvorganiserende&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;2794&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;681.32&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Digitale datamater&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Datamater, digitaler&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Computere, digitale&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;8&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;(043)&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Dissertationer (som enkeltpublikation)&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Doktordisputatser&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Ph.D.-afhandlinger&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Licentiatafhandlinger&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Erhvervsforskeres afhandlinger&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Master thesis&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;M.Sc.-afhandling&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;245&quot; ind1=&quot;0&quot; ind2=&quot;0&quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;The connection machine.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;260&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Cambridge,Mass. :&lt;/subfield&gt;
+    &lt;subfield code=&quot;b&quot;&gt;MIT Press,&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;1985 repr. 1987.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;300&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;15+190 s.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;490&quot; ind1=&quot;1&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;MIT Press series in artificial intelligence&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;504&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Litteraturhenvisninger: s.145-172..&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;700&quot; ind1=&quot;1&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;27366&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Hillis, W.D.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;830&quot; ind1=&quot; &quot; ind2=&quot;0&quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;230777&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;MIT Press series in artificial intelligence&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;z&quot;&gt;002676575&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;583&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;z&quot;&gt;87112&lt;/subfield&gt;
+    &lt;subfield code=&quot;j&quot;&gt;E&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;852&quot; ind1=&quot;8&quot; ind2=&quot;0&quot;&gt;
+    &lt;subfield code=&quot;b&quot;&gt;IMM&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;HIL&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;201761&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Learning control systems&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;201762&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Styringssystemer, lærende og selvorganiserende&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;201763&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Lærende og selvorganiserende styringssystemer&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;201764&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Selvorganiserende styringssystemer&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;201765&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Ekspertsystemer&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;195272&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Computere, digitale&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;195273&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Digitale datamater&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;195274&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Datamater, digitaler&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;199949&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Licentiatafhandlinger&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;199950&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Dissertationer (som enkeltpublikation)&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;199951&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Erhvervsforskeres afhandlinger&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;199952&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;M.Sc.-afhandling&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;199953&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Master thesis&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;199954&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Ph.D.-afhandlinger&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;199955&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Doktordisputatser&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;999&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;c&quot;&gt;33891&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;33891&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;952&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;0&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;1&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;4&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;7&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;9&quot;&gt;17753&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;DTV&lt;/subfield&gt;
+    &lt;subfield code=&quot;b&quot;&gt;DTV&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;STACK&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;1989-12-27&lt;/subfield&gt;
+    &lt;subfield code=&quot;h&quot;&gt;1985,,,,&lt;/subfield&gt;
+    &lt;subfield code=&quot;l&quot;&gt;222&lt;/subfield&gt;
+    &lt;subfield code=&quot;o&quot;&gt;681.32 Connection&lt;/subfield&gt;
+    &lt;subfield code=&quot;p&quot;&gt;300005623141&lt;/subfield&gt;
+    &lt;subfield code=&quot;q&quot;&gt;2017-07-17&lt;/subfield&gt;
+    &lt;subfield code=&quot;r&quot;&gt;2017-06-19&lt;/subfield&gt;
+    &lt;subfield code=&quot;s&quot;&gt;2017-06-19&lt;/subfield&gt;
+    &lt;subfield code=&quot;w&quot;&gt;2017-04-24&lt;/subfield&gt;
+    &lt;subfield code=&quot;y&quot;&gt;LONGLOAN&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;952&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;0&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;1&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;4&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;7&quot;&gt;3&lt;/subfield&gt;
+    &lt;subfield code=&quot;9&quot;&gt;17754&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;IMM&lt;/subfield&gt;
+    &lt;subfield code=&quot;b&quot;&gt;IMM&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;UNKNOWN&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;1999-04-22&lt;/subfield&gt;
+    &lt;subfield code=&quot;o&quot;&gt;HIL&lt;/subfield&gt;
+    &lt;subfield code=&quot;p&quot;&gt;380020007303&lt;/subfield&gt;
+    &lt;subfield code=&quot;r&quot;&gt;2017-04-24&lt;/subfield&gt;
+    &lt;subfield code=&quot;w&quot;&gt;2017-04-24&lt;/subfield&gt;
+    &lt;subfield code=&quot;y&quot;&gt;LMLOANBOOK&lt;/subfield&gt;
+  &lt;/datafield&gt;
+&lt;/record&gt;
+</marcxml>
+    <items>
+      <item>
+        <borrowernumber>20828</borrowernumber>
+        <holdingbranchname>DTU Bibliotek Lyngby</holdingbranchname>
+        <itype>LONGLOAN</itype>
+        <permanent_location>STACK</permanent_location>
+        <onloan>2017-07-17</onloan>
+        <cn_sort>68132_CONNECTION</cn_sort>
+        <notforloan>0</notforloan>
+        <datelastseen>2017-06-19</datelastseen>
+        <itemcallnumber>681.32 Connection</itemcallnumber>
+        <barcode>300005623141</barcode>
+        <dateaccessioned>1989-12-27</dateaccessioned>
+        <location>STACK</location>
+        <homebranchname>DTU Bibliotek Lyngby</homebranchname>
+        <date_due>2017-07-17 23:59:00</date_due>
+        <damaged>0</damaged>
+        <enumchron>1985,,,,</enumchron>
+        <biblioitemnumber>33891</biblioitemnumber>
+        <homebranch>DTV</homebranch>
+        <withdrawn>0</withdrawn>
+        <replacementpricedate>2017-04-24</replacementpricedate>
+        <cardnumber>E48C1DCA</cardnumber>
+        <itemnumber>17753</itemnumber>
+        <itemlost>0</itemlost>
+        <holdingbranch>DTV</holdingbranch>
+        <biblionumber>33891</biblionumber>
+        <issues>222</issues>
+        <timestamp>2017-06-19 10:46:38</timestamp>
+        <datelastborrowed>2017-06-19</datelastborrowed>
+      </item>
+      <item>
+        <location>UNKNOWN</location>
+        <homebranchname>DTU Compute</homebranchname>
+        <barcode>380020007303</barcode>
+        <dateaccessioned>1999-04-22</dateaccessioned>
+        <itemcallnumber>HIL</itemcallnumber>
+        <cn_sort>HIL</cn_sort>
+        <notforloan>3</notforloan>
+        <datelastseen>2017-04-24</datelastseen>
+        <holdingbranchname>DTU Compute</holdingbranchname>
+        <itype>LMLOANBOOK</itype>
+        <permanent_location>UNKNOWN</permanent_location>
+        <biblionumber>33891</biblionumber>
+        <timestamp>2017-04-24 17:56:57</timestamp>
+        <itemlost>0</itemlost>
+        <holdingbranch>IMM</holdingbranch>
+        <biblioitemnumber>33891</biblioitemnumber>
+        <replacementpricedate>2017-04-24</replacementpricedate>
+        <withdrawn>0</withdrawn>
+        <homebranch>IMM</homebranch>
+        <itemnumber>17754</itemnumber>
+        <date_due></date_due>
+        <damaged>0</damaged>
+      </item>
+    </items>
+    <biblioitemnumber>33891</biblioitemnumber>
+    <place>Cambridge,Mass. :</place>
+    <timestamp>2017-04-25 02:17:05</timestamp>
+    <biblionumber>33891</biblionumber>
+    <issues>
+      <issue>
+        <cardnumber>E48C1DCA</cardnumber>
+        <title>The connection machine.</title>
+        <itemnumber>17753</itemnumber>
+        <date_due>2017-07-17 23:59:00</date_due>
+        <onsite_checkout>0</onsite_checkout>
+        <borrowernumber>20828</borrowernumber>
+        <issue_id>2</issue_id>
+        <biblionumber>33891</biblionumber>
+        <issuedate>2017-06-19 10:46:38</issuedate>
+        <timestamp>2017-06-19 10:46:38</timestamp>
+        <branchcode>DTV</branchcode>
+        <surname>McHugh</surname>
+        <auto_renew>0</auto_renew>
+        <barcode>300005623141</barcode>
+        <firstname>Ronan</firstname>
+      </issue>
+    </issues>
+    <publishercode>MIT Press,</publishercode>
+  </record>
+</GetRecords>
