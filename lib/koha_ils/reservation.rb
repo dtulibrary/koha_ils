@@ -7,6 +7,7 @@ module KohaIls
     end
     element :branchname, as: :branch
     element :reserve_id
+    element :priority
     element :borrowernumber, as: :borrower_number
     element :timestamp do |elem|
       Date.parse(elem)
