@@ -28,5 +28,19 @@ module KohaIls
         expect(config.observers).to include DummyObserver
       end
     end
+    describe 'payments user' do
+      it 'can set the value' do
+        config = described_class.new
+        config.payments_user = '45738'
+        expect(config.payments_user).to eql '45738'
+      end
+    end
+    describe 'payments_password' do
+      it 'can get and set the value' do
+        config = described_class.new
+        config.payments_password = 'artichoke'
+        expect(config.payments_password).to eql 'artichoke'
+      end
+    end
   end
 end

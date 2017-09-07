@@ -18,12 +18,11 @@ module KohaIls
   #  KohaIls::PaymentService.make_payment(payment)
   #
   class PaymentService
-    def base_uri
-      URI(Rails.application.config.koha[:base])
-    end
+    FineData = Struct.new(:id, :amount, :processed, :message)
+    PaymentResponse = Struct.new(:successful, :message)
 
     def fine_payments_uri(id)
-      URI.join(Rails.application.config.koha[:base], payments_api(id))
+      URI.join(KohaIls.configuration.base_path, payments_api(id))
     end
 
     def payments_api(id)
@@ -31,30 +30,36 @@ module KohaIls
     end
 
     def login_uri
-      URI.join(Rails.application.config.koha[:base], '/cgi-bin/koha/opac-user.pl')
+      URI.join(KohaIls.configuration.base_path, '/cgi-bin/koha/opac-user.pl')
     end
 
     def user
-      Rails.application.config.koha[:payments_user]
+      KohaIls.configuration.payments_user
     end
 
     def password
-      Rails.application.config.koha[:payments_password]
+      KohaIls.configuration.payments_password
     end
 
     # Open a connection to Koha and process
-    # all payments contained within a payment
-    # object.
-    def self.make_payment(payment)
+    # all payments
+    # If login fails, return all objects
+    # with error messages.
+    #
+    # :arg: payments - array of FineData structs
+    def self.make_payments(payments)
+      processed_payments = []
       PaymentService.connect do |ps|
-        payment = ps.make_payment(payment)
+        processed_payments = payments.map {|py| ps.process_fine(py) }
       end
+      processed_payments
     rescue LoginError => e
-      payment.messages << "Payment failed due to service login error"
-      payment.processed = false
-      payment.save!
-    ensure
-      return payment
+      processed_payments = payments.map do |py|
+        py.message = "Payment failed due to service login error"
+        py.processed = false
+        py
+      end
+      processed_payments
     end
 
     def self.connect
@@ -82,23 +87,16 @@ module KohaIls
     end
 
     def login_error?(res)
-      res.body.include? "incorrect username or password"
+      res.body =~ /incorrect username or password/i
     end
 
     def open_connection!
-      uri = self.base_uri
+      uri = URI(KohaIls.configuration.base_path)
       @http = Net::HTTP.start(uri.host, uri.port)
     end
 
     def close_connection!
       @http.finish if @http.active?
-    end
-
-    def make_payment(payment)
-      fines = payment.fine_info.map { |fine| process_fine(fine) }
-      payment.fine_info = fines
-      payment.save!
-      payment
     end
 
     def process_fine(fine)
@@ -110,11 +108,9 @@ module KohaIls
       fine
     end
 
-    PaymentResponse = Struct.new(:successful, :message)
-
     def pay(id, amount)
       req = Net::HTTP::Put.new(fine_payments_uri(id))
-      req.body = { amount: amount, note: "Automated Payment from FindIt for fine: #{id}" }.to_json
+      req.body = { amount: amount, note: "Automated Payment for fine: #{id}" }.to_json
       req['Content-Type'] = 'application/json'
       req['Cookie'] = @cookie
       response = @http.request(req)

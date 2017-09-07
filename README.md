@@ -26,7 +26,7 @@ Or install it yourself as:
 
     $ gem install koha_ils
 
-## Usage
+## Configuration
 
 To use the KohaIls gem you must first configure the base path of the installation. To do this, use an initializer:
 
@@ -35,10 +35,20 @@ To use the KohaIls gem you must first configure the base path of the installatio
 
 KohaIls.configure do |config|
   config.base_path = "http://koha.library.dk"
+  # config.observers = [ APIMonitor.instance ]
 end
 
 ```
+The wrapper allows for performance monitoring of API requests using the Observer pattern. You can register your observer as above, an example observer might look like this:
 
+
+class APIMonitor
+  include Singleton
+
+  def update(query, duration)
+    Rails.logger.info "Koha request: #{query} took #{duration}"
+  end
+end
 
 ## Development
 
