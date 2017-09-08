@@ -142,7 +142,7 @@ module KohaIls
     end
 
     def self.successful?(response)
-      response.code.to_i.in? (200..308)
+      (200..308).include? response.code.to_i
     end
   end
 end
