@@ -14,20 +14,20 @@ module KohaIls
       element :enumchron
       element :homebranch, as: :branch_code
       element :notforloan, as: :not_for_loan do |elem|
-        elem.to_i > 0
+        elem.to_i != 0
       end
       element :date_due do |elem|
         Date.parse(elem)
       end
       element :itemlost, as: :item_lost do |elem|
-        elem.to_i > 0
+        elem.to_i != 0
       end
       element :location
       element :permanent_location
       element :biblionumber, as: :biblio_number
 
       element :withdrawn do |elem|
-        elem.to_i > 0
+        elem.to_i != 0
       end
 
       def for_loan?
