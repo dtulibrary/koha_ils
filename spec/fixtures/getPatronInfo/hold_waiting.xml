@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GetPatronInfo>
+  <is_expired>0</is_expired>
+  <dateexpiry>2018-11-29</dateexpiry>
+  <holds>
+    <hold>
+      <branchcode>DTV</branchcode>
+      <timestamp>2017-10-03 10:14:39</timestamp>
+      <waitingdate>2017-10-03</waitingdate>
+      <found>W</found>
+      <priority>0</priority>
+      <title>Applied multivariate statistical analysis</title>
+      <lowestPriority>0</lowestPriority>
+      <branchname>DTU Bibliotek Lyngby</branchname>
+      <suspend>0</suspend>
+      <borrowernumber>2976</borrowernumber>
+      <item>
+        <permanent_location>STACK</permanent_location>
+        <withdrawn>0</withdrawn>
+        <pages>16, 607 s. : ill. ; 24 cm</pages>
+        <barcode>391800031795</barcode>
+        <copyrightdate>1988</copyrightdate>
+        <serial>0</serial>
+        <editionstatement>2. ed.</editionstatement>
+        <biblioitemnumber>324137</biblioitemnumber>
+        <title>Applied multivariate statistical analysis</title>
+        <itemlost>0</itemlost>
+        <homebranch>BAL</homebranch>
+        <dateaccessioned>2002-12-12</dateaccessioned>
+        <biblionumber>324137</biblionumber>
+        <holdingbranch>DTV</holdingbranch>
+        <notforloan>0</notforloan>
+        <issues>11</issues>
+        <place>Englewood Cliffs, N.J. :</place>
+        <itemcallnumber>519.23 JOH</itemcallnumber>
+        <cn_sort></cn_sort>
+        <itemnumber>289347</itemnumber>
+        <frameworkcode></frameworkcode>
+        <datecreated>2017-09-21</datecreated>
+        <replacementpricedate>2017-09-21</replacementpricedate>
+        <timestamp>2017-09-21 20:23:23</timestamp>
+        <isbn>0-13-041146-9</isbn>
+        <damaged>0</damaged>
+        <itype>LONGLOAN</itype>
+        <datelastseen>2017-10-03</datelastseen>
+        <publishercode>Prentice Hall,</publishercode>
+        <location>STACK</location>
+      </item>
+      <itemnumber>289347</itemnumber>
+      <reserve_id>45</reserve_id>
+      <biblionumber>324137</biblionumber>
+      <reservedate>2017-10-02</reservedate>
+    </hold>
+  </holds>
+  <category_type>A</category_type>
+  <categorycode>STUD</categorycode>
+  <amountoutstanding>0</amountoutstanding>
+  <description>Students</description>
+  <sex>F</sex>
+  <privacy>1</privacy>
+  <firstname>Firstname</firstname>
+  <surname>Lastname</surname>
+  <dateenrolled>2013-11-29</dateenrolled>
+  <privacy_guarantor_checkouts>0</privacy_guarantor_checkouts>
+  <updated_on>2017-09-27 11:46:12</updated_on>
+  <branchname>DTU Bibliotek Lyngby</branchname>
+  <initials>bla</initials>
+  <enrolmentperiod>36</enrolmentperiod>
+  <BlockExpiredPatronOpacActions>1</BlockExpiredPatronOpacActions>
+  <borrowernumber>bla</borrowernumber>
+  <reservefee>0.000000</reservefee>
+  <branchcode>DTV</branchcode>
+  <cardnumber>cardnum</cardnumber>
+</GetPatronInfo>

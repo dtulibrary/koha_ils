@@ -84,4 +84,16 @@ describe KohaIls::Patron do
       expect(loan.title).to eql 'Another test'
     end
   end
+  describe 'reservations' do
+    subject { patron.reservations }
+    it { should be_an Array }
+  end
+  describe 'a reservation waiting' do
+    let(:resp_file) { 'hold_waiting.xml' }
+    subject { patron.reservations.first }
+    it { should be_a KohaIls::Reservation }
+    it 'should be marked as waiting' do
+      expect(subject.waiting?).to eql true
+    end
+  end
 end

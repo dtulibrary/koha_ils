@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GetRecords>
+  <record>
+    <biblioitemnumber>328516</biblioitemnumber>
+    <editionstatement>3. ed.</editionstatement>
+    <reserves>
+      <reserve>
+        <lowestPriority>0</lowestPriority>
+        <rtimestamp>2017-09-29 12:20:18</rtimestamp>
+        <biblionumber>328516</biblionumber>
+        <borrowernumber>14565</borrowernumber>
+        <reservedate>2017-09-29</reservedate>
+        <priority>1</priority>
+        <branchcode>BAL</branchcode>
+        <reserve_id>25</reserve_id>
+        <suspend>0</suspend>
+      </reserve>
+      <reserve>
+        <rtimestamp>2017-09-29 13:29:17</rtimestamp>
+        <lowestPriority>0</lowestPriority>
+        <borrowernumber>4</borrowernumber>
+        <biblionumber>328516</biblionumber>
+        <reservedate>2017-09-29</reservedate>
+        <reserve_id>30</reserve_id>
+        <suspend>0</suspend>
+        <branchcode>DTV</branchcode>
+        <priority>2</priority>
+      </reserve>
+    </reserves>
+    <items>
+      <item>
+        <barcode>311800623753</barcode>
+        <homebranchname>DTU Bibliotek Ballerup</homebranchname>
+        <biblioitemnumber>328516</biblioitemnumber>
+        <date_due></date_due>
+        <location>STACK</location>
+        <holdingbranchname>DTU Bibliotek Ballerup</holdingbranchname>
+        <itype>LONGLOAN</itype>
+        <itemnumber>294942</itemnumber>
+        <dateaccessioned>2007-05-08</dateaccessioned>
+        <cn_sort>51264_LAY</cn_sort>
+        <biblionumber>328516</biblionumber>
+        <timestamp>2017-09-21 13:52:18</timestamp>
+        <datelastseen>2017-09-21</datelastseen>
+        <notforloan>0</notforloan>
+        <issues>23</issues>
+        <damaged>0</damaged>
+        <replacementpricedate>2017-09-21</replacementpricedate>
+        <holdingbranch>BAL</holdingbranch>
+        <withdrawn>0</withdrawn>
+        <itemlost>0</itemlost>
+        <itemcallnumber>512.64 LAY</itemcallnumber>
+        <homebranch>BAL</homebranch>
+        <permanent_location>STACK</permanent_location>
+      </item>
+      <item>
+        <holdingbranch>BAL</holdingbranch>
+        <withdrawn>0</withdrawn>
+        <itemlost>0</itemlost>
+        <itemcallnumber>512.64 LAY</itemcallnumber>
+        <homebranch>BAL</homebranch>
+        <permanent_location>STACK</permanent_location>
+        <dateaccessioned>2010-02-25</dateaccessioned>
+        <cn_sort>51264_LAY</cn_sort>
+        <biblionumber>328516</biblionumber>
+        <timestamp>2017-09-21 13:52:18</timestamp>
+        <datelastseen>2017-09-21</datelastseen>
+        <notforloan>0</notforloan>
+        <issues>3</issues>
+        <damaged>0</damaged>
+        <replacementpricedate>2017-09-21</replacementpricedate>
+        <homebranchname>DTU Bibliotek Ballerup</homebranchname>
+        <biblioitemnumber>328516</biblioitemnumber>
+        <location>STACK</location>
+        <date_due></date_due>
+        <itype>LONGLOAN</itype>
+        <holdingbranchname>DTU Bibliotek Ballerup</holdingbranchname>
+        <itemnumber>294943</itemnumber>
+        <barcode>311800623941</barcode>
+      </item>
+      <item>
+        <date_due></date_due>
+        <location>STACK</location>
+        <homebranchname>DTU Bibliotek Ballerup</homebranchname>
+        <biblioitemnumber>328516</biblioitemnumber>
+        <holdingbranchname>DTU Bibliotek Ballerup</holdingbranchname>
+        <itype>LONGLOAN</itype>
+        <itemnumber>294944</itemnumber>
+        <barcode>311800632671</barcode>
+        <withdrawn>0</withdrawn>
+        <itemlost>0</itemlost>
+        <holdingbranch>BAL</holdingbranch>
+        <permanent_location>STACK</permanent_location>
+        <homebranch>BAL</homebranch>
+        <itemcallnumber>512.64 LAY</itemcallnumber>
+        <cn_sort>51264_LAY</cn_sort>
+        <biblionumber>328516</biblionumber>
+        <dateaccessioned>2010-05-03</dateaccessioned>
+        <replacementpricedate>2017-09-21</replacementpricedate>
+        <issues>10</issues>
+        <damaged>0</damaged>
+        <datelastborrowed>2015-02-02</datelastborrowed>
+        <datelastseen>2017-09-21</datelastseen>
+        <timestamp>2017-09-21 13:52:18</timestamp>
+        <notforloan>0</notforloan>
+      </item>
+      <item>
+        <homebranch>BAL</homebranch>
+        <permanent_location>DISK</permanent_location>
+        <itemcallnumber>CD-ROM ; 787</itemcallnumber>
+        <withdrawn>0</withdrawn>
+        <itemlost>0</itemlost>
+        <holdingbranch>BAL</holdingbranch>
+        <damaged>0</damaged>
+        <issues>15</issues>
+        <replacementpricedate>2017-09-21</replacementpricedate>
+        <timestamp>2017-09-21 13:52:18</timestamp>
+        <datelastseen>2017-09-21</datelastseen>
+        <notforloan>0</notforloan>
+        <cn_sort>CDROM__787</cn_sort>
+        <biblionumber>328516</biblionumber>
+        <dateaccessioned>2007-05-22</dateaccessioned>
+        <itype>LONGLOAN</itype>
+        <holdingbranchname>DTU Bibliotek Ballerup</holdingbranchname>
+        <itemnumber>294945</itemnumber>
+        <date_due></date_due>
+        <location>DISK</location>
+        <homebranchname>DTU Bibliotek Ballerup</homebranchname>
+        <biblioitemnumber>328516</biblioitemnumber>
+        <materials>CD</materials>
+        <barcode>311801049821</barcode>
+      </item>
+      <item>
+        <date_due></date_due>
+        <location>DISK</location>
+        <homebranchname>DTU Bibliotek Ballerup</homebranchname>
+        <biblioitemnumber>328516</biblioitemnumber>
+        <itype>LONGLOAN</itype>
+        <holdingbranchname>DTU Bibliotek Ballerup</holdingbranchname>
+        <itemnumber>294946</itemnumber>
+        <materials>CD</materials>
+        <barcode>311801007568</barcode>
+        <withdrawn>0</withdrawn>
+        <itemlost>0</itemlost>
+        <holdingbranch>BAL</holdingbranch>
+        <homebranch>BAL</homebranch>
+        <permanent_location>DISK</permanent_location>
+        <itemcallnumber>CD-ROM ; 787</itemcallnumber>
+        <cn_sort>CDROM__787</cn_sort>
+        <biblionumber>328516</biblionumber>
+        <dateaccessioned>2010-03-01</dateaccessioned>
+        <issues>8</issues>
+        <damaged>0</damaged>
+        <replacementpricedate>2017-09-21</replacementpricedate>
+        <timestamp>2017-09-21 13:52:18</timestamp>
+        <datelastseen>2017-09-21</datelastseen>
+        <notforloan>0</notforloan>
+      </item>
+      <item>
+        <homebranchname>DTU Bibliotek Ballerup</homebranchname>
+        <biblioitemnumber>328516</biblioitemnumber>
+        <date_due></date_due>
+        <location>DISK</location>
+        <holdingbranchname>DTU Bibliotek Ballerup</holdingbranchname>
+        <itype>LONGLOAN</itype>
+        <itemnumber>294947</itemnumber>
+        <materials>CD</materials>
+        <barcode>311801151405</barcode>
+        <holdingbranch>BAL</holdingbranch>
+        <withdrawn>0</withdrawn>
+        <itemlost>0</itemlost>
+        <itemcallnumber>CD-ROM ; 787</itemcallnumber>
+        <homebranch>BAL</homebranch>
+        <permanent_location>DISK</permanent_location>
+        <dateaccessioned>2010-05-03</dateaccessioned>
+        <cn_sort>CDROM__787</cn_sort>
+        <biblionumber>328516</biblionumber>
+        <timestamp>2017-09-21 13:52:18</timestamp>
+        <datelastseen>2017-09-21</datelastseen>
+        <notforloan>0</notforloan>
+        <damaged>0</damaged>
+        <replacementpricedate>2017-09-21</replacementpricedate>
+      </item>
+    </items>
+    <pages>576 s. : ill. &amp; CD-ROM.</pages>
+    <isbn>0-321-31485-9</isbn>
+    <publishercode>Addison Wesley,</publishercode>
+    <place>Boston :</place>
+    <biblionumber>328516</biblionumber>
+    <cn_sort></cn_sort>
+    <issues>
+    </issues>
+    <marcxml>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;record
+    xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;
+    xsi:schemaLocation=&quot;http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd&quot;
+    xmlns=&quot;http://www.loc.gov/MARC21/slim&quot;&gt;
+
+  &lt;leader&gt;00980cam^a2200313^^^4500&lt;/leader&gt;
+  &lt;controlfield tag=&quot;001&quot;&gt;328516&lt;/controlfield&gt;
+  &lt;controlfield tag=&quot;005&quot;&gt;20170921202519.0&lt;/controlfield&gt;
+  &lt;controlfield tag=&quot;008&quot;&gt;070521s2006||||||||||||||||||000|0|eng|d&lt;/controlfield&gt;
+  &lt;controlfield tag=&quot;008&quot;&gt;9812180u----0---4---uu---1------&lt;/controlfield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;pst - 4377033&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;pst - 4377033&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;seq - 583033&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;020&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;0-321-31485-9&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;(Sirsi) a63607&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;482&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;512.64&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Multilineær algebra&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Matricer (algebra)&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Vektorrum&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Lineære ligninger&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Lineær algebra&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;245&quot; ind1=&quot;1&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Linear algebra and its applications.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;250&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;3. ed.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;260&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Boston :&lt;/subfield&gt;
+    &lt;subfield code=&quot;b&quot;&gt;Addison Wesley,&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;2006.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;300&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;576 s. : ill. &amp;amp; CD-ROM.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;500&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Hertil hører CD-ROM&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;650&quot; ind1=&quot;0&quot; ind2=&quot;4&quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;363601&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;lineær algebra&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;700&quot; ind1=&quot;1&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;299948&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Lay, David C.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;852&quot; ind1=&quot;8&quot; ind2=&quot;0&quot;&gt;
+    &lt;subfield code=&quot;b&quot;&gt;BAL&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;512.64 LAY&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;370944&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Matricer (algebra)&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;370945&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Lineær algebra&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;370946&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Vektorrum&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;370947&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Lineære ligninger&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;370948&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Multilineær algebra&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;999&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;d&quot;&gt;328516&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;952&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;0&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;1&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;4&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;7&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;9&quot;&gt;294942&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;BAL&lt;/subfield&gt;
+    &lt;subfield code=&quot;b&quot;&gt;BAL&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;STACK&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;2007-05-08&lt;/subfield&gt;
+    &lt;subfield code=&quot;l&quot;&gt;23&lt;/subfield&gt;
+    &lt;subfield code=&quot;o&quot;&gt;512.64 LAY&lt;/subfield&gt;
+    &lt;subfield code=&quot;p&quot;&gt;311800623753&lt;/subfield&gt;
+    &lt;subfield code=&quot;r&quot;&gt;2017-09-21&lt;/subfield&gt;
+    &lt;subfield code=&quot;w&quot;&gt;2017-09-21&lt;/subfield&gt;
+    &lt;subfield code=&quot;y&quot;&gt;LONGLOAN&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;952&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;0&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;1&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;4&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;7&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;9&quot;&gt;294943&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;BAL&lt;/subfield&gt;
+    &lt;subfield code=&quot;b&quot;&gt;BAL&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;STACK&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;2010-02-25&lt;/subfield&gt;
+    &lt;subfield code=&quot;l&quot;&gt;3&lt;/subfield&gt;
+    &lt;subfield code=&quot;o&quot;&gt;512.64 LAY&lt;/subfield&gt;
+    &lt;subfield code=&quot;p&quot;&gt;311800623941&lt;/subfield&gt;
+    &lt;subfield code=&quot;r&quot;&gt;2017-09-21&lt;/subfield&gt;
+    &lt;subfield code=&quot;w&quot;&gt;2017-09-21&lt;/subfield&gt;
+    &lt;subfield code=&quot;y&quot;&gt;LONGLOAN&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;952&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;0&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;1&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;4&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;7&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;9&quot;&gt;294944&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;BAL&lt;/subfield&gt;
+    &lt;subfield code=&quot;b&quot;&gt;BAL&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;STACK&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;2010-05-03&lt;/subfield&gt;
+    &lt;subfield code=&quot;l&quot;&gt;10&lt;/subfield&gt;
+    &lt;subfield code=&quot;o&quot;&gt;512.64 LAY&lt;/subfield&gt;
+    &lt;subfield code=&quot;p&quot;&gt;311800632671&lt;/subfield&gt;
+    &lt;subfield code=&quot;r&quot;&gt;2017-09-21&lt;/subfield&gt;
+    &lt;subfield code=&quot;s&quot;&gt;2015-02-02&lt;/subfield&gt;
+    &lt;subfield code=&quot;w&quot;&gt;2017-09-21&lt;/subfield&gt;
+    &lt;subfield code=&quot;y&quot;&gt;LONGLOAN&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;952&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;0&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;1&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;3&quot;&gt;CD&lt;/subfield&gt;
+    &lt;subfield code=&quot;4&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;7&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;9&quot;&gt;294945&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;BAL&lt;/subfield&gt;
+    &lt;subfield code=&quot;b&quot;&gt;BAL&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;DISK&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;2007-05-22&lt;/subfield&gt;
+    &lt;subfield code=&quot;l&quot;&gt;15&lt;/subfield&gt;
+    &lt;subfield code=&quot;o&quot;&gt;CD-ROM ; 787&lt;/subfield&gt;
+    &lt;subfield code=&quot;p&quot;&gt;311801049821&lt;/subfield&gt;
+    &lt;subfield code=&quot;r&quot;&gt;2017-09-21&lt;/subfield&gt;
+    &lt;subfield code=&quot;w&quot;&gt;2017-09-21&lt;/subfield&gt;
+    &lt;subfield code=&quot;y&quot;&gt;LONGLOAN&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;952&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;0&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;1&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;3&quot;&gt;CD&lt;/subfield&gt;
+    &lt;subfield code=&quot;4&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;7&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;9&quot;&gt;294946&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;BAL&lt;/subfield&gt;
+    &lt;subfield code=&quot;b&quot;&gt;BAL&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;DISK&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;2010-03-01&lt;/subfield&gt;
+    &lt;subfield code=&quot;l&quot;&gt;8&lt;/subfield&gt;
+    &lt;subfield code=&quot;o&quot;&gt;CD-ROM ; 787&lt;/subfield&gt;
+    &lt;subfield code=&quot;p&quot;&gt;311801007568&lt;/subfield&gt;
+    &lt;subfield code=&quot;r&quot;&gt;2017-09-21&lt;/subfield&gt;
+    &lt;subfield code=&quot;w&quot;&gt;2017-09-21&lt;/subfield&gt;
+    &lt;subfield code=&quot;y&quot;&gt;LONGLOAN&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;952&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;0&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;1&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;3&quot;&gt;CD&lt;/subfield&gt;
+    &lt;subfield code=&quot;4&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;7&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;9&quot;&gt;294947&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;BAL&lt;/subfield&gt;
+    &lt;subfield code=&quot;b&quot;&gt;BAL&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;DISK&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;2010-05-03&lt;/subfield&gt;
+    &lt;subfield code=&quot;o&quot;&gt;CD-ROM ; 787&lt;/subfield&gt;
+    &lt;subfield code=&quot;p&quot;&gt;311801151405&lt;/subfield&gt;
+    &lt;subfield code=&quot;r&quot;&gt;2017-09-21&lt;/subfield&gt;
+    &lt;subfield code=&quot;w&quot;&gt;2017-09-21&lt;/subfield&gt;
+    &lt;subfield code=&quot;y&quot;&gt;LONGLOAN&lt;/subfield&gt;
+  &lt;/datafield&gt;
+&lt;/record&gt;
+</marcxml>
+    <timestamp>2017-09-21 20:25:19</timestamp>
+  </record>
+  <record>
+    <items>
+      <item>
+        <date_due></date_due>
+        <location>LB</location>
+        <biblioitemnumber>247943</biblioitemnumber>
+        <homebranchname>DTU Bibliotek Lyngby</homebranchname>
+        <itemnumber>224064</itemnumber>
+        <itype>TEXTBOOK</itype>
+        <holdingbranchname>DTU Bibliotek Lyngby</holdingbranchname>
+        <barcode>300203003</barcode>
+        <itemlost>0</itemlost>
+        <withdrawn>0</withdrawn>
+        <holdingbranch>DTV</holdingbranch>
+        <homebranch>DTV</homebranch>
+        <permanent_location>LB</permanent_location>
+        <itemcallnumber>512.64 Linear</itemcallnumber>
+        <biblionumber>247943</biblionumber>
+        <cn_sort>51264_LINEAR</cn_sort>
+        <dateaccessioned>2006-09-07</dateaccessioned>
+        <replacementpricedate>2017-09-21</replacementpricedate>
+        <damaged>0</damaged>
+        <notforloan>3</notforloan>
+        <timestamp>2017-09-21 13:02:39</timestamp>
+        <datelastseen>2017-09-21</datelastseen>
+      </item>
+      <item>
+        <homebranchname>DTU Bibliotek Lyngby</homebranchname>
+        <biblioitemnumber>247943</biblioitemnumber>
+        <location>STACK</location>
+        <date_due></date_due>
+        <holdingbranchname>DTU Bibliotek Lyngby</holdingbranchname>
+        <itype>LONGLOAN</itype>
+        <itemnumber>224065</itemnumber>
+        <barcode>300206094</barcode>
+        <holdingbranch>DTV</holdingbranch>
+        <withdrawn>0</withdrawn>
+        <itemlost>0</itemlost>
+        <itemcallnumber>512.64 Linear</itemcallnumber>
+        <permanent_location>STACK</permanent_location>
+        <homebranch>DTV</homebranch>
+        <dateaccessioned>2006-09-12</dateaccessioned>
+        <cn_sort>51264_LINEAR</cn_sort>
+        <biblionumber>247943</biblionumber>
+        <datelastseen>2017-09-21</datelastseen>
+        <timestamp>2017-09-21 13:02:39</timestamp>
+        <notforloan>0</notforloan>
+        <issues>13</issues>
+        <replacementpricedate>2017-09-21</replacementpricedate>
+        <damaged>0</damaged>
+        <datelastborrowed>2015-02-27</datelastborrowed>
+      </item>
+      <item>
+        <issues>10</issues>
+        <damaged>0</damaged>
+        <replacementpricedate>2017-09-21</replacementpricedate>
+        <datelastborrowed>2012-03-19</datelastborrowed>
+        <datelastseen>2017-09-21</datelastseen>
+        <timestamp>2017-09-21 13:02:39</timestamp>
+        <notforloan>0</notforloan>
+        <cn_sort>51264_LINEAR</cn_sort>
+        <biblionumber>247943</biblionumber>
+        <dateaccessioned>2006-09-12</dateaccessioned>
+        <permanent_location>STACK</permanent_location>
+        <homebranch>DTV</homebranch>
+        <itemcallnumber>512.64 Linear</itemcallnumber>
+        <withdrawn>0</withdrawn>
+        <itemlost>0</itemlost>
+        <holdingbranch>DTV</holdingbranch>
+        <barcode>300206095</barcode>
+        <holdingbranchname>DTU Bibliotek Lyngby</holdingbranchname>
+        <itype>LONGLOAN</itype>
+        <itemnumber>224066</itemnumber>
+        <location>STACK</location>
+        <date_due></date_due>
+        <homebranchname>DTU Bibliotek Lyngby</homebranchname>
+        <biblioitemnumber>247943</biblioitemnumber>
+      </item>
+      <item>
+        <holdingbranch>DTV</holdingbranch>
+        <withdrawn>0</withdrawn>
+        <itemlost>0</itemlost>
+        <itemcallnumber>512.64 Linear</itemcallnumber>
+        <homebranch>DTV</homebranch>
+        <permanent_location>STACK</permanent_location>
+        <dateaccessioned>2006-09-12</dateaccessioned>
+        <cn_sort>51264_LINEAR</cn_sort>
+        <biblionumber>247943</biblionumber>
+        <timestamp>2017-09-21 13:02:39</timestamp>
+        <datelastseen>2017-09-21</datelastseen>
+        <notforloan>0</notforloan>
+        <datelastborrowed>2015-09-01</datelastborrowed>
+        <damaged>0</damaged>
+        <issues>13</issues>
+        <replacementpricedate>2017-09-21</replacementpricedate>
+        <homebranchname>DTU Bibliotek Lyngby</homebranchname>
+        <biblioitemnumber>247943</biblioitemnumber>
+        <date_due></date_due>
+        <location>STACK</location>
+        <holdingbranchname>DTU Bibliotek Lyngby</holdingbranchname>
+        <itype>LONGLOAN</itype>
+        <itemnumber>224067</itemnumber>
+        <barcode>300206096</barcode>
+      </item>
+    </items>
+    <illus>ill. +</illus>
+    <isbn>0321314859</isbn>
+    <pages>576 s. :</pages>
+    <biblioitemnumber>247943</biblioitemnumber>
+    <reserves>
+    </reserves>
+    <editionstatement>3. ed. update.</editionstatement>
+    <biblionumber>247943</biblionumber>
+    <cn_sort></cn_sort>
+    <timestamp>2017-09-21 20:02:45</timestamp>
+    <marcxml>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;record
+    xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;
+    xsi:schemaLocation=&quot;http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd&quot;
+    xmlns=&quot;http://www.loc.gov/MARC21/slim&quot;&gt;
+
+  &lt;leader&gt;01077nam-a22003254--4500&lt;/leader&gt;
+  &lt;controlfield tag=&quot;001&quot;&gt;247943&lt;/controlfield&gt;
+  &lt;controlfield tag=&quot;008&quot;&gt;000000s2006||||xxu|||||||||||00||||eng|d&lt;/controlfield&gt;
+  &lt;controlfield tag=&quot;008&quot;&gt;0609072u----8---4001uudan0000000&lt;/controlfield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;pst - 468552&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;pst - 468552&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;035&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;seq - 468552&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;020&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;0321314859&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;482&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;512.64&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Multilineær algebra&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Matricer (algebra)&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Vektorrum&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Lineære ligninger&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Lineær algebra&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;18&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;(075.8)&lt;/subfield&gt;
+    &lt;subfield code=&quot;x&quot;&gt;Lærebøger ved DTU&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;245&quot; ind1=&quot;0&quot; ind2=&quot;0&quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Linear algebra and its applications /&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;David C. Lay.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;250&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;3. ed. update.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;260&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Boston :&lt;/subfield&gt;
+    &lt;subfield code=&quot;b&quot;&gt;Pearson/Addison-Wesley,&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;2006.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;300&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;576 s. :&lt;/subfield&gt;
+    &lt;subfield code=&quot;b&quot;&gt;ill. +&lt;/subfield&gt;
+    &lt;subfield code=&quot;e&quot;&gt;1 CD-DOM (4.75 in.).&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;500&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Includes index.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;650&quot; ind1=&quot; &quot; ind2=&quot;0&quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;360531&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Algebras, Linear&lt;/subfield&gt;
+    &lt;subfield code=&quot;v&quot;&gt;Textbooks.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;700&quot; ind1=&quot;1&quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;299948&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Lay, David C.&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;583&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;x&quot;&gt;DTU modul&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;852&quot; ind1=&quot;8&quot; ind2=&quot;0&quot;&gt;
+    &lt;subfield code=&quot;b&quot;&gt;DTV&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;370944&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Matricer (algebra)&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;370945&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Lineær algebra&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;370946&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Vektorrum&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;370947&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Lineære ligninger&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;370948&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Multilineær algebra&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;080&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;9&quot;&gt;371503&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;Lærebøger ved DTU&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;999&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;d&quot;&gt;247943&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;952&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;0&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;1&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;4&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;7&quot;&gt;3&lt;/subfield&gt;
+    &lt;subfield code=&quot;9&quot;&gt;224064&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;DTV&lt;/subfield&gt;
+    &lt;subfield code=&quot;b&quot;&gt;DTV&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;LB&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;2006-09-07&lt;/subfield&gt;
+    &lt;subfield code=&quot;o&quot;&gt;512.64 Linear&lt;/subfield&gt;
+    &lt;subfield code=&quot;p&quot;&gt;300203003&lt;/subfield&gt;
+    &lt;subfield code=&quot;r&quot;&gt;2017-09-21&lt;/subfield&gt;
+    &lt;subfield code=&quot;w&quot;&gt;2017-09-21&lt;/subfield&gt;
+    &lt;subfield code=&quot;y&quot;&gt;TEXTBOOK&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;952&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;0&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;1&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;4&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;7&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;9&quot;&gt;224065&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;DTV&lt;/subfield&gt;
+    &lt;subfield code=&quot;b&quot;&gt;DTV&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;STACK&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;2006-09-12&lt;/subfield&gt;
+    &lt;subfield code=&quot;l&quot;&gt;13&lt;/subfield&gt;
+    &lt;subfield code=&quot;o&quot;&gt;512.64 Linear&lt;/subfield&gt;
+    &lt;subfield code=&quot;p&quot;&gt;300206094&lt;/subfield&gt;
+    &lt;subfield code=&quot;r&quot;&gt;2017-09-21&lt;/subfield&gt;
+    &lt;subfield code=&quot;s&quot;&gt;2015-02-27&lt;/subfield&gt;
+    &lt;subfield code=&quot;w&quot;&gt;2017-09-21&lt;/subfield&gt;
+    &lt;subfield code=&quot;y&quot;&gt;LONGLOAN&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;952&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;0&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;1&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;4&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;7&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;9&quot;&gt;224066&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;DTV&lt;/subfield&gt;
+    &lt;subfield code=&quot;b&quot;&gt;DTV&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;STACK&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;2006-09-12&lt;/subfield&gt;
+    &lt;subfield code=&quot;l&quot;&gt;10&lt;/subfield&gt;
+    &lt;subfield code=&quot;o&quot;&gt;512.64 Linear&lt;/subfield&gt;
+    &lt;subfield code=&quot;p&quot;&gt;300206095&lt;/subfield&gt;
+    &lt;subfield code=&quot;r&quot;&gt;2017-09-21&lt;/subfield&gt;
+    &lt;subfield code=&quot;s&quot;&gt;2012-03-19&lt;/subfield&gt;
+    &lt;subfield code=&quot;w&quot;&gt;2017-09-21&lt;/subfield&gt;
+    &lt;subfield code=&quot;y&quot;&gt;LONGLOAN&lt;/subfield&gt;
+  &lt;/datafield&gt;
+  &lt;datafield tag=&quot;952&quot; ind1=&quot; &quot; ind2=&quot; &quot;&gt;
+    &lt;subfield code=&quot;0&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;1&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;4&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;7&quot;&gt;0&lt;/subfield&gt;
+    &lt;subfield code=&quot;9&quot;&gt;224067&lt;/subfield&gt;
+    &lt;subfield code=&quot;a&quot;&gt;DTV&lt;/subfield&gt;
+    &lt;subfield code=&quot;b&quot;&gt;DTV&lt;/subfield&gt;
+    &lt;subfield code=&quot;c&quot;&gt;STACK&lt;/subfield&gt;
+    &lt;subfield code=&quot;d&quot;&gt;2006-09-12&lt;/subfield&gt;
+    &lt;subfield code=&quot;l&quot;&gt;13&lt;/subfield&gt;
+    &lt;subfield code=&quot;o&quot;&gt;512.64 Linear&lt;/subfield&gt;
+    &lt;subfield code=&quot;p&quot;&gt;300206096&lt;/subfield&gt;
+    &lt;subfield code=&quot;r&quot;&gt;2017-09-21&lt;/subfield&gt;
+    &lt;subfield code=&quot;s&quot;&gt;2015-09-01&lt;/subfield&gt;
+    &lt;subfield code=&quot;w&quot;&gt;2017-09-21&lt;/subfield&gt;
+    &lt;subfield code=&quot;y&quot;&gt;LONGLOAN&lt;/subfield&gt;
+  &lt;/datafield&gt;
+&lt;/record&gt;
+</marcxml>
+    <issues>
+    </issues>
+    <publishercode>Pearson/Addison-Wesley,</publishercode>
+    <place>Boston :</place>
+  </record>
+</GetRecords>

@@ -9,6 +9,12 @@ describe KohaIls::Record do
       expect(subject.items.size).to eq 1
     end
   end
+  describe 'reservations' do
+    let(:resp_file) { 'reservations.xml' }
+    it 'should have 2 reservations' do
+      expect(subject.reservations.size).to eq 2
+    end
+  end
   describe KohaIls::Record::Item do
     subject(:item) { record.items.first }
     it 'should have a callnumber' do
