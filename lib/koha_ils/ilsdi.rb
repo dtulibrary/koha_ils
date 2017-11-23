@@ -29,7 +29,7 @@ module KohaIls
       changed
       notify_observers(uri.to_s, time_taken)
       resp.body
-    rescue Timeout::Error, Errno::EINVAL, Errno::ECONNRESET, EOFError,
+    rescue Timeout::Error, Errno::EINVAL, Errno::ECONNRESET, EOFError, Errno::ECONNREFUSED,
       Net::HTTPBadResponse, Net::HTTPHeaderSyntaxError, Net::ProtocolError => e
       raise ServiceError.new(e.message)
     end
