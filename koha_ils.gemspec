@@ -4,15 +4,15 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'koha_ils/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "koha_ils"
+  spec.name          = 'koha_ils'
   spec.version       = KohaIls::VERSION
-  spec.authors       = ["Ronan McHugh"]
-  spec.email         = ["mchugh.r@gmail.com"]
+  spec.authors       = ['Ronan McHugh', 'Jimmy Petersen']
+  spec.email         = ['mchugh.r@gmail.com', 'jipe@dtu.dk']
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
-  spec.license       = "MIT"
+  spec.summary       = 'Koha ILSDI integration'
+  spec.description   = 'A gem for integrating with your Koha ILSDI installation'
+  spec.homepage      = 'https://github.com/dtulibrary/koha_ilsdi'
+  spec.license       = 'MIT'
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
   # delete this section to allow pushing this gem to any host.

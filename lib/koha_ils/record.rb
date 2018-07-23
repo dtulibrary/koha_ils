@@ -17,7 +17,10 @@ module KohaIls
         elem.to_i != 0
       end
       element :date_due do |elem|
-        Date.parse(elem)
+        begin
+          Date.parse(elem)
+        rescue
+        end
       end
       element :itemlost, as: :item_lost do |elem|
         elem.to_i != 0
