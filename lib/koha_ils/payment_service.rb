@@ -26,7 +26,7 @@ module KohaIls
     end
 
     def payments_api(id)
-      "/api/v1/accountlines/#{id}/partialpayment"
+      "/api/v1/accountlines/#{id}/payment"
     end
 
     def login_uri
@@ -109,7 +109,7 @@ module KohaIls
     end
 
     def pay(id, amount)
-      req = Net::HTTP::Put.new(fine_payments_uri(id))
+      req = Net::HTTP::Post.new(fine_payments_uri(id))
       req.body = { amount: amount, note: "Automated Payment for fine: #{id}" }.to_json
       req['Content-Type'] = 'application/json'
       req['Cookie'] = @cookie
