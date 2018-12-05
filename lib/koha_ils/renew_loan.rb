@@ -28,7 +28,7 @@ module KohaIls
       if error == 'on_reserve'
         'another user has already reserved this item'
       elsif error == 'too_many'
-        "you cannot renew a loan more than #{renewals} times"
+        "you cannot renew a loan more than 10 times"
       elsif code == 'PatronNotFound'
         'problem with user id - please contact an administrator for assistance'
       end
