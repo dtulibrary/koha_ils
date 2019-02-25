@@ -13,6 +13,7 @@ module KohaIls
       element :itype, as: :type
       element :enumchron
       element :homebranch, as: :branch_code
+      element :holdingbranch, as: :holding_branch_code
       element :notforloan, as: :not_for_loan do |elem|
         elem.to_i != 0
       end
